@@ -142,6 +142,12 @@ print(classification_report)
 ![EX_5_OUTPUT_11](https://github.com/user-attachments/assets/108a6acb-4eda-45aa-b02a-7f1c0029ccb0)
 
 
+```
+lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
+```
+
+![EX_5_OUTPUT_12](https://github.com/user-attachments/assets/63bf2de3-d70f-4435-a10b-c0fa9ed673b7)
+
 
 
 ## Result:
